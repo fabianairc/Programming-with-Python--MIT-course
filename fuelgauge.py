@@ -27,12 +27,6 @@ while True:
         print("NameError: Please check your input.")
 
 
-#best 
-Entiendo, aquí tienes el código mejorado para cumplir con los requisitos especificados:
-
-```python
-from fractions import Fraction
-
 def get_fuel_percentage():
     while True:
         try:
